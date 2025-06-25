@@ -7,6 +7,12 @@ Fast inference for DeepSeek-V3 LLMs written in CUDA.
 ### Requirements
 
 1. git lfs
+2. H200 GPU
+
+### Steps
+
+1. 
+2. 
 
 ## Resources
 
